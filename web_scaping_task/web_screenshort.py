@@ -17,7 +17,7 @@ from PIL import Image
 driver = webdriver.Chrome()
 
 # URL of website
-url = "https://www.geeksforgeeks.org/"
+url = "https://xhamster.desi/tags/xhmasters"
 
 # Opening the website
 driver.get(url)
